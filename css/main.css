@@ -1,0 +1,37 @@
+html,
+body {
+  height: 100%; /* Garante que a altura da tela é 100% */
+  margin: 0; /* Remove a margem padrão */
+  font-family: Arial, sans-serif; /* Define a fonte */
+  background-color: #f4f4f4; /* Cor de fundo suave */
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+}
+.container {
+  background-color: white; /* Cor de fundo branco */
+  padding: 20px; /* Espaçamento interno */
+  border-radius: 8px; /* Cantos arredondados */
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1); /* Sombra leve */
+  text-align: center; /* Alinha o texto ao centro */
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+p {
+  font-size: 18px;
+  color: green;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+h1 {
+  margin-bottom: 50px;
+  font-size: 35px;
+}
+.orgBtn {
+  display: flex;
+  gap: 20px; /* Espaço entre os botões */
+  justify-content: center; /* Centraliza os botões horizontalmente */
+}

@@ -96,16 +96,20 @@ A partir dessas observações, o projeto foi desenvolvido em três etapas:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/jpmoraes/OI_CaixaAcessivel.git```
+git clone https://github.com/jpmoraes/OI_CaixaAcessivel.git
+```
 
-Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:
+```
+cd OI_CaixaAcessivel
+```
 
-```cd OI_CaixaAcessivel```
+3. Execute o servidor:
 
-Execute o servidor:
+```
+python app.py
+```
 
-```python app.py```
+4. Abra a interface web no navegador
 
-Abra a interface web no navegador
-
-Conecte o ESP32 à mesma rede
+5. Conecte o ESP32 à mesma rede

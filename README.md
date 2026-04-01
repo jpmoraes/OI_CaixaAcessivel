@@ -48,6 +48,7 @@ O aluno percebe o sinal visual de forma discreta
 
 🧩 Arquitetura do Sistema
 
+```
 [ Interface Web ]
         ↓
 [ Servidor Python ]
@@ -55,6 +56,7 @@ O aluno percebe o sinal visual de forma discreta
 [ ESP32 ]
         ↓
 [ LED (Caixa Acessível) ]
+```
 
 🚀 Como Executar
 
